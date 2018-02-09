@@ -1,0 +1,13 @@
+body {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+  }
+  p {
+    font-size: 30px;
+  }
+p2 {
+  bottom: 0;
+  position: center;
+}
